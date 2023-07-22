@@ -3,8 +3,16 @@
 An open-source kigurumi studio, build ur dreaming character, with u
 ```
 
+- Website: `kig.land` (WIP)  
+- Telegram kigurumi channel: [moekig](https://t.me/moekig)
+- Telegram groups: [awesome_kig](https://t.me/awesome_kig)
+
 ## ✨ PREPAREING
-After `07/20/2023` we start to moving and setting up our new studio 🚚, new studio will cover the entire process,🔧 build **Kigurumi**  
+After 07/20/2023,
+  
+we start to moving and setting up our new studio 🚚,  
+  
+it will cover the entire process, build **KIGURUMI**  
 
 ## 📌 TASKs
 

@@ -1,4 +1,4 @@
-# 🎭 KIGLAND
+# 🎭 KIGLAND - 偶域
 ```
 An open-source kigurumi studio, build ur dreaming character, with u
 ```

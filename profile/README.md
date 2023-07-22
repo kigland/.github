@@ -3,7 +3,8 @@
 An open-source kigurumi studio, build ur dreaming character, with u
 ```
 
-- Website: `kig.land` (WIP)  
+- Website: `kig.land` (WIP)
+- Kigurumi wiki repo (lang:`zh-CN`) [kigurumi-wiki](https://github.com/u-u-z/kigurumi)
 - Telegram kigurumi channel: [moekig](https://t.me/moekig)
 - Telegram groups: [awesome_kig](https://t.me/awesome_kig)
 

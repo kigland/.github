@@ -1,9 +1,10 @@
-# 🎭 KIGLAND - 偶域
+# KIGLAND - 偶域
 ```
 An open-source kigurumi studio, build ur dreaming character, with u
 ```
 
 - Website: `kig.land` (WIP)
+- Kigurumi [characters repo](https://github.com/kigland/characters)
 - Kigurumi wiki repo (lang:`zh-CN`) [kigurumi-wiki](https://github.com/u-u-z/kigurumi)
 - Telegram kigurumi channel: [moekig](https://t.me/moekig)
 - Telegram groups: [awesome_kig](https://t.me/awesome_kig)
@@ -22,6 +23,7 @@ it will cover the entire process, build **KIGURUMI**
 - [ ] **[WIP]** Injuries are being medically rehabilitated (progress of software part will continue)
 - [ ] **[WIP]** Base 3D model work in progress
 - [ ] **[WIP]** [Official website](https://kig.land)
+- [ ] **[WIP]** Spray painting verify
 
 ### DONE
 - [x] Regist the domain `kig.land`

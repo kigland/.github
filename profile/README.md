@@ -18,6 +18,8 @@ it will cover the entire process, build **KIGURUMI**
 
 ## 📌 TASKs
 
+moving to [KIGLAND HQ KANBAN](https://github.com/orgs/kigland/projects/2)
+
 ### WIP
 - [ ] **[WIP]** Injuries are being medically rehabilitated (progress of software part will continue)
 - [ ] **[WIP]** Base 3D model work in progress

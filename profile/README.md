@@ -3,6 +3,8 @@
 An open-source kigurumi studio, build ur dreaming character, with u
 ```
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/z2q3.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 ## 🏠 RESOURCE
 - 🌐 [kig.land](https://kig.land) - the main website
 - 🌐 [how.kig.land](https://how.kig.land) - kigurumi handbook (zh-CN)

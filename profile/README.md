@@ -1,9 +1,15 @@
 # KIGLAND - 偶域
 ```
 An open-source kigurumi studio, build ur dreaming character, with u
+Embody the Character, Empower the Cosplayer.
 ```
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/z2q3.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
+## 📦 REPOSITORY
+
+- [Face Craft](https://github.com/kigland/craft) - [WIP] A tool to customize the KIGURUMI face
+- [GenHead](https://github.com/kigland/gen-head) - [WIP] Generation of human head models for ergonomic modeling
 
 ## 🏠 RESOURCE
 - 🌐 [kig.land](https://kig.land) - the main website

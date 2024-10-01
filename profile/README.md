@@ -6,6 +6,11 @@ Embody the Character, Empower the Cosplayer.
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/z2q3.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
+## GPG Keys
+```
+kigland <infra@kig.land> (01D5520F38B790E7)
+```
+
 ## 📦 REPOSITORY
 
 - [Face Craft](https://github.com/kigland/craft) - [WIP] A tool to customize the KIGURUMI face

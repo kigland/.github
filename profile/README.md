@@ -1,40 +1,21 @@
-# KIGLAND - 偶域
-```
-An open-source kigurumi studio, build ur dreaming character, with u
-Embody the Character, Empower the Cosplayer.
-```
+## KIGLAND - 偶域
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/z2q3.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+> Bringing Characters to Life, Crafting Cosplayers' Delight
 
-## GPG Keys
-```
-kigland <infra@kig.land> (01D5520F38B790E7)
-```
+At KIGLAND, we specialize in creating high-quality, 2D-style Kigurumi cosplay masks, making character transformation more accessible and immersive than ever. By combining advanced 3D printing, CNC machining, and silicone molding, we industrialize what was once an artisanal craft, significantly reducing costs while maintaining superior quality.
 
-## 📦 REPOSITORY
+Our open-source initiatives focus on developing custom modeling tools, production automation, and cosplay-related innovations, helping the community push the boundaries of character creation. Whether you're a cosplayer, maker, or developer, join us in revolutionizing the world of cosplay!
 
-- [Face Craft](https://github.com/kigland/craft) - [WIP] A tool to customize the KIGURUMI face
-- [GenHead](https://github.com/kigland/gen-head) - [WIP] Generation of human head models for ergonomic modeling
+👉 Customize your product [www.kig.land](https://kig.land)
 
-## 🏠 RESOURCE
-- 🌐 [kig.land](https://kig.land) - the main website
-- 🌐 [how.kig.land](https://how.kig.land) - kigurumi handbook (zh-CN)
-- 🐙 [kig.land characters repo](https://github.com/kigland/characters) - the characters repo for assets
-- 🐙 [kigurumi handbook repo](https://github.com/u-u-z/kigurumi) - Kigurumi handbook repo (zh-CN)
-- ✈️ [@moekig](https://t.me/moekig) - Telegram kigurumi channel
-- ✈️ [@awesome_kig](https://t.me/awesome_kig) - Telegram groups 
+- [CurveLashMLP](https://github.com/u-u-z/CurveLashMLP) Deep Learning-Based (MLP) automatic eyelash curve generation for anime characters
+- [Glasses Editor](https://glasses.github.com/) quickly customize KIGURUMI objects **with input size customization** and automatic splitting into FDM-friendly printable objects, support STL files export.
+- [Craft](https://github.com/kigland/craft) your face! Sculpting tools that can directly customize and export STL files.
+- [Blender toolbox](https://github.com/kigland/blender-toolbox) assists in engineering modeling and can also calculate costs.
+- [Kigland CAM](https://x.com/Remi_IO/status/1807712942714212569/video/1) free G-Code generation tool, enabling artists to perform CNC work without needing CAD
+- [3D Chinese Male Headform](https://github.com/kigland/gen-head) GB/T 23461-2009 3D dimensions of male adult headforms generator.
+- [UV Layout tools](https://github.com/kigland/eyes-gen) Helps us to quickly follow the A4 layout when printing eye pieces.
 
-## ✨ PREPAREING
-After 07/20/2023,
-  
-we start to moving and setting up our new studio 🚚,  
-  
-it will cover the entire process, build **KIGURUMI**  
+Our mission is to bring joy to cosplayers with the most advanced technology—freeing them from concerns about appearance, body shape, age, gender, or ethnicity. [Join us](mailto:join@kig.land) !
 
-## 📌 TASKs
-👇 Please visit [KIGLAND HQ KANBAN](https://github.com/orgs/kigland/projects/2), u will get more info about our tasks or management
-  
-<a href="https://github.com/orgs/kigland/projects/2" target="_blank" >
-  <img src="/assets/kanban-button.svg" alt="kigland kanban" width="120">
-</a>
-
+![kigland](../assets/github.banner.jpg)

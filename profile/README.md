@@ -2,12 +2,13 @@
 
 > Bringing Characters to Life, Crafting Cosplayers' Delight
 
-At KIGLAND, we specialize in creating high-quality, 2D-style Kigurumi cosplay masks, making character transformation more accessible and immersive than ever. By combining advanced 3D printing, CNC machining, and silicone molding, we industrialize what was once an artisanal craft, significantly reducing costs while maintaining superior quality.
+At KIGLAND, we specialize in creating high-quality, 2D-style Kigurumi cosplay masks, making character transformation more accessible and immersive than ever. By combining advanced 3D printing, CNC machining (Agile Hybrid Manufacturing) we industrialize what was once an artisanal craft, significantly reducing costs while maintaining superior quality, bring the better price!
 
 Our open-source initiatives focus on developing custom modeling tools, production automation, and cosplay-related innovations, helping the community push the boundaries of character creation. Whether you're a cosplayer, maker, or developer, join us in revolutionizing the world of cosplay!
 
 👉 Customize your product [www.kig.land](https://kig.land)
 
+- [KIGURUMI manual (zh-CN)](https://github.com/u-u-z/kigurumi)
 - [CurveLashMLP](https://github.com/u-u-z/CurveLashMLP) Deep Learning-Based (MLP) automatic eyelash curve generation for anime characters
 - [Glasses Editor](https://glasses.github.com/) quickly customize KIGURUMI objects **with input size customization** and automatic splitting into FDM-friendly printable objects, support STL files export.
 - [Craft](https://github.com/kigland/craft) your face! Sculpting tools that can directly customize and export STL files.

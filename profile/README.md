@@ -2,7 +2,7 @@
 
 > Bringing Characters to Life, Crafting Cosplayers' Delight
 
-At KIGLAND, we specialize in creating high-quality, 2D-style Kigurumi cosplay masks, making character transformation more accessible and immersive than ever. By combining advanced 3D printing, CNC machining (Agile Hybrid Manufacturing) we industrialize what was once an artisanal craft, significantly reducing costs while maintaining superior quality, bring the better price!
+At KIGLAND, we specialize in creating high-quality, 2D-style Kigurumi cosplay masks, making character transformation more accessible and immersive than ever. By combining advanced 3D printing, CNC machining (**AGILE HYBRID MANUFACTURING**) we industrialize what was once an artisanal craft, significantly reducing costs while maintaining superior quality, bring the better price!
 
 Our open-source initiatives focus on developing custom modeling tools, production automation, and cosplay-related innovations, helping the community push the boundaries of character creation. Whether you're a cosplayer, maker, or developer, join us in revolutionizing the world of cosplay!
 

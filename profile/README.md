@@ -10,7 +10,7 @@ Our open-source initiatives focus on developing custom modeling tools, productio
 
 - [KIGURUMI manual (zh-CN)](https://github.com/u-u-z/kigurumi)
 - [CurveLashMLP](https://github.com/u-u-z/CurveLashMLP) Deep Learning-Based (MLP) automatic eyelash curve generation for anime characters
-- [Glasses Editor](https://glasses.github.com/) quickly customize KIGURUMI objects **with input size customization** and automatic splitting into FDM-friendly printable objects, support STL files export.
+- [Glasses Editor](https://glasses.kig.land/) quickly customize KIGURUMI objects **with input size customization** and automatic splitting into FDM-friendly printable objects, support STL files export.
 - [Craft](https://github.com/kigland/craft) your face! Sculpting tools that can directly customize and export STL files.
 - [Blender toolbox](https://github.com/kigland/blender-toolbox) assists in engineering modeling and can also calculate costs.
 - [Kigland CAM](https://x.com/Remi_IO/status/1807712942714212569/video/1) free G-Code generation tool, enabling artists to perform CNC work without needing CAD

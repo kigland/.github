@@ -1,10 +1,31 @@
 ## KIGLAND - 偶域
 
-> Bringing Characters to Life, Crafting Cosplayers' Delight
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/2a890c1d-effd-42d6-a421-2870e808c7d2" alt="image 1" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/7d6ef035-593f-4a3b-860d-9c8bf6970ba6" alt="image 2" width="100%" />
+    </td>
+  </tr>
+</table>
 
-At KIGLAND, we specialize in creating high-quality, 2D-style Kigurumi cosplay masks, making character transformation more accessible and immersive than ever. By combining advanced 3D printing, CNC machining (**AGILE HYBRID MANUFACTURING**) we industrialize what was once an artisanal craft, significantly reducing costs while maintaining superior quality, bring the better price!
+KIGLAND builds infrastructure for personalized manufacturing.
 
-Our open-source initiatives focus on developing custom modeling tools, production automation, and cosplay-related innovations, helping the community push the boundaries of character creation. Whether you're a cosplayer, maker, or developer, join us in revolutionizing the world of cosplay!
+We are developing a pipeline that maps **emotion and identity-driven intent** into **parameters, geometry, and manufacturable outputs**, enabling highly differentiated products to be produced at scale under real-world physical constraints.
+
+Our system combines:
+
+- proprietary datasets  
+- domain-specific model training  
+- AI-generated design workflows  
+- production automation  
+- agile hybrid manufacturing (3D printing + CNC + factory operations)
+
+Our current focus is **2D-style Kigurumi cosplay masks**, where we translate highly subjective aesthetic preferences into repeatable, manufacturable results. The long-term goal is broader: building the technical stack for scalable personalization in physical products.
+
+This organization contains our open-source work on modeling tools, manufacturing software, workflow automation, and experimental infrastructure for design-to-production systems.
 
 👉 Customize your product [www.kig.land](https://kig.land)
 
